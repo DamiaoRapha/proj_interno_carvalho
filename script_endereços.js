@@ -136,34 +136,9 @@ function resize() {
                             alert('ENDEREÇO COPIADO!');
                         }
 
-
-                            document.getElementById('copyTextBotucatu').addEventListener('click', function() {
-                                copyToClipboard('Avenida Das Hortências, 1703. CEP: 18065-258 https://goo.gl/maps/8DXA3Buy2xxngmTk6');
-                            });
-
-                            function copyToClipboard(text) {
-                                var textArea = document.createElement('textarea');
-                                textArea.value = text;
-
-                                // Adiciona o elemento ao corpo do documento
-                                document.body.appendChild(textArea);
-
-                                // Seleciona o conteúdo do textarea
-                                textArea.select();
-
-                                // Executa o comando de cópia
-                                document.execCommand('copy');
-
-                                // Remove o textarea do documento
-                                document.body.removeChild(textArea);
-
-                                // Pode exibir uma mensagem ou fazer outras ações após a cópia
-                                alert('ENDEREÇO COPIADO!');
-                            }
-
                             
                                 document.getElementById('copyTextCaraguatatuba').addEventListener('click', function() {
-                                    copyToClipboard('Rua Felix Jonas Amorim, 22. Próximo à policia rodoviária Tamoios https://maps.app.goo.gl/apRDtboUpdPSZdTz6');
+                                    copyToClipboard('Rua Aríetes, 100. Próximo à policia rodoviária Tamoios https://maps.app.goo.gl/DtZbvUyqLBEUXWiN9');
                                 });
 
                                 function copyToClipboard(text) {
@@ -310,31 +285,6 @@ function resize() {
                                                         // Pode exibir uma mensagem ou fazer outras ações após a cópia
                                                         alert('ENDEREÇO COPIADO!');
                                                     }
-
-
-                                                        document.getElementById('copyTextMirassol').addEventListener('click', function() {
-                                                            copyToClipboard('Av. Airton José Bilachi, 3965 - Próximo ao laboratório de alimentos Intertek Brasil. https://goo.gl/maps/8ChdzQtKAxVAKsHm7');
-                                                        });
-                            
-                                                        function copyToClipboard(text) {
-                                                            var textArea = document.createElement('textarea');
-                                                            textArea.value = text;
-                            
-                                                            // Adiciona o elemento ao corpo do documento
-                                                            document.body.appendChild(textArea);
-                            
-                                                            // Seleciona o conteúdo do textarea
-                                                            textArea.select();
-                            
-                                                            // Executa o comando de cópia
-                                                            document.execCommand('copy');
-                            
-                                                            // Remove o textarea do documento
-                                                            document.body.removeChild(textArea);
-                            
-                                                            // Pode exibir uma mensagem ou fazer outras ações após a cópia
-                                                            alert('ENDEREÇO COPIADO!');
-                                                        }
 
 
                                                             document.getElementById('copyTextOurinhos').addEventListener('click', function() {
