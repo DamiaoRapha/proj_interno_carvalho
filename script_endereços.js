@@ -38,7 +38,7 @@ function resize() {
 
 
             document.getElementById('copyTextAraraquara').addEventListener('click', function() {
-                copyToClipboard('Av. Dr. Waldomiro Blundi, 54. CEP: 14807-422 https://goo.gl/maps/BoYbmgBNwgDmtyeK6');
+                copyToClipboard('Av. Dr. Waldomiro Blundi, 54. CEP: 14807-422 https://maps.app.goo.gl/Xu3akEzX7dsQVWop7');
             });
 
             function copyToClipboard(text) {
@@ -88,7 +88,7 @@ function resize() {
 
 
                     document.getElementById('copyTextBarretos').addEventListener('click', function() {
-                        copyToClipboard('Rua Altair Do Nascimento, 850. CEP: 14783-152 https://goo.gl/maps/eJSRbVytyUsfjARXA');
+                        copyToClipboard('Rua Altair Do Nascimento, 850. CEP: 14783-152 https://maps.app.goo.gl/mtVgGCekKVNTitE47');
                     });
 
                     function copyToClipboard(text) {
@@ -113,7 +113,7 @@ function resize() {
 
 
                         document.getElementById('copyTextBotucatu').addEventListener('click', function() {
-                            copyToClipboard('Avenida Das Hortências, 1703. CEP: 18065-258 https://goo.gl/maps/8DXA3Buy2xxngmTk6');
+                            copyToClipboard('Avenida Das Hortências, 1703. CEP: 18065-258 https://maps.app.goo.gl/T7fvyfBm89V3cr5h6');
                         });
 
                         function copyToClipboard(text) {
@@ -138,7 +138,7 @@ function resize() {
 
                             
                                 document.getElementById('copyTextCaraguatatuba').addEventListener('click', function() {
-                                    copyToClipboard('Rua Aríetes, 100. Próximo à policia rodoviária Tamoios https://maps.app.goo.gl/DtZbvUyqLBEUXWiN9');
+                                    copyToClipboard('Rua Aríetes, 100. Próximo à policia rodoviária Tamoios https://maps.app.goo.gl/WwJmN5SWGgLBNDiV7');
                                 });
 
                                 function copyToClipboard(text) {
@@ -213,7 +213,7 @@ function resize() {
 
 
                                             document.getElementById('copyTextJau').addEventListener('click', function() {
-                                                copyToClipboard('Av. Lourenço Neto De Almeida Prado, 1031 - Atrás do Território do Calçado. https://goo.gl/maps/sQncvsrvqdue4z6o6');
+                                                copyToClipboard('Av. Lourenço Neto De Almeida Prado, 1031 - Atrás do Território do Calçado. https://maps.app.goo.gl/eJF77DZNPqH1biAy6');
                                             });
                 
                                             function copyToClipboard(text) {
@@ -338,7 +338,7 @@ function resize() {
 
 
                                                                     document.getElementById('copyTextBolsao').addEventListener('click', function() {
-                                                                        copyToClipboard('Rodovia Orlando Quagliato, Km 10 - Em frente ao motel Vila Verde. https://goo.gl/maps/ktqKciLhasPLqdGS9');
+                                                                        copyToClipboard('Rodovia Orlando Quagliato, Km 10 - Em frente ao motel Vila Verde. https://maps.app.goo.gl/gA78aDioovDubzcW7');
                                                                     });
                                         
                                                                     function copyToClipboard(text) {
@@ -388,7 +388,7 @@ function resize() {
 
 
                                                                             document.getElementById('copyTextRioPreto').addEventListener('click', function() {
-                                                                                copyToClipboard('Rua Felipe Assad Karam, 300 - Estância Jockey Clube. https://goo.gl/maps/2BgyjV8HkrN73HoL8');
+                                                                                copyToClipboard('Rua Felipe Assad Karam, 300 - Estância Jockey Clube. https://maps.app.goo.gl/kuizVMvzVkELN2F18');
                                                                             });
                                                 
                                                                             function copyToClipboard(text) {
