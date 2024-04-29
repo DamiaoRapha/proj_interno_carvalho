@@ -462,7 +462,7 @@ function resize() {
 
 
                                                                                     document.getElementById('copyTextTremembe').addEventListener('click', function() {
-                                                                                        copyToClipboard('Estrada Três Cruzes, 718 - Bairro Tremembé. https://goo.gl/maps/y6iB2FZE9vNUfeqM9');
+                                                                                        copyToClipboard('Estrada Três Cruzes, 718 - Bairro Tremembé. https://maps.app.goo.gl/4ZMG6zbAWQa4b4Bn7');
                                                                                     });
                                                         
                                                                                     function copyToClipboard(text) {
